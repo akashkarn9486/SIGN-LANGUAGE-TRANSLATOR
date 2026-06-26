@@ -8,7 +8,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/akashkarn9486/sign-language-translator/graphs/commit-activity)
-[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red.svg)](https://github.com/akashkarn9486)
+[![Made with Love](https://img.shields.io/badge/Made%20with-❤️-white.svg)](https://github.com/akashkarn9486)
 
 **Author:** [Akash Karn](https://github.com/akashkarn9486)  
 **Repository:** [https://github.com/akashkarn9486/sign-language-translator](https://github.com/akashkarn9486/sign-language-translator)
